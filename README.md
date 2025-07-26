@@ -1,60 +1,56 @@
-# 🌿 Vighnesh Farm – Responsive Business Website
+# 🌾 Vighnesh Farm
 
-A modern and responsive business website built using **HTML**, **CSS**, **Bootstrap 5**, and **JavaScript**. It features a fixed top navigation bar, dynamic testimonial section, clean footer with newsletter subscription, mobile-friendly layout, and interactive UI. Ideal for businesses like farms, organic stores, or local brands.
-
----
-
-## 🚀 Features
-
-- ✅ Fully responsive layout  
-- 📌 Fixed navbar with toggle menu  
-- 🧭 Scroll lock when mobile menu is open  
-- 🌟 Testimonial card with gradient and image styling  
-- 📬 Newsletter subscription form  
-- 🔗 Social media buttons using SVG icons  
-- 🛒 Quick links to shop and contact pages  
-- 🛠 Simple and lightweight code using HTML, CSS & JS only
+**Vighnesh Farm** is a fully responsive and clean website template designed for organic farms, agri-businesses, or nature-focused brands. Built using HTML, CSS, Bootstrap 5, JavaScript, and jQuery, it offers a modern interface with features like a product showcase, newsletter subscription, fixed navbar, and mobile-friendly navigation.
 
 ---
 
-## 📦 Tech Stack
+## ✨ Features
 
-- **Frontend:** HTML5, CSS3, Bootstrap 5  
-- **Scripts:** JavaScript, jQuery  
-- **Icons:** SVG via `<use xlink:href="#icon">`  
-- **Styling:** Custom CSS with gradients and hover effects
-
----
-
-## 🌐 Host for Free
-
-Here are some platforms where you can deploy your site for **free**:
-
-| Platform      | Features                            | Link                         |
-|---------------|-------------------------------------|------------------------------|
-| GitHub Pages  | Best for static sites (HTML/CSS/JS) | https://pages.github.com/   |
-| Netlify       | CI/CD, custom domains, fast deploy  | https://www.netlify.com/    |
-| Vercel        | Ideal for frontend sites            | https://vercel.com/         |
-| Firebase      | Hosting + backend options           | https://firebase.google.com |
+- 🌐 Clean and modern UI
+- 📱 Fully responsive (mobile-first)
+- 📌 Fixed navigation bar
+- 🔄 Toggle menu with scroll lock on mobile
+- 🛍️ Product listing and detail page
+- 📬 Newsletter subscription form
+- 🧾 About Us, Contact, FAQ, Privacy Policy pages
+- 🔗 Social media integration (Facebook, Instagram, etc.)
 
 ---
 
-## 📸 Screenshots
+## 🛠️ Tech Stack
 
-![Preview Screenshot](https://source.unsplash.com/featured/?farm,website)
-
----
-
-## ✨ Contribution
-
-Have suggestions or want to improve this site? Feel free to fork and submit a PR!
+- **Frontend**: HTML5, CSS3, Bootstrap 5
+- **Scripting**: JavaScript, jQuery
+- **Icons**: SVG icons & Font Awesome
+- **Fonts**: Google Fonts
 
 ---
 
-## 📝 License
+## 📌 Sections Included
 
-This project is licensed under the [MIT License](LICENSE).
+- **Home Page** – Hero banner, key offerings, call-to-action
+- **About Us** – Mission, values, and farm background
+- **Product Detail Page** – Detailed view of each product
+- **Shop Page** – Grid layout for all products
+- **Contact Page** – Inquiry form & contact info
+- **Footer** – Newsletter form, social icons, policies
 
 ---
 
-> 💬 _“Designed and developed by Drushti. For learning, growth, and future clients.”_
+## 📦 Wholesale Enquiry
+
+We also offer **bulk/wholesale** deals.  
+Click the button below on our website to connect with us for special pricing and farm-to-store supply options.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and share with attribution.
+
+---
+
+## 👩‍💻 Author
+
+Made with ❤️ by **anonymous324**  
+For collaboration or queries, reach out through the [Contact Page](contact.php).
