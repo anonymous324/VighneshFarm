@@ -53,4 +53,4 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ## 👩‍💻 Author
 
 Made with ❤️ by **anonymous324**  
-For collaboration or queries, reach out through the [Contact Page](vrai3245@protonmail.com).
+For collaboration or queries, reach out through the [Contact Page](mailto:vrai3245@protonmail.com).
